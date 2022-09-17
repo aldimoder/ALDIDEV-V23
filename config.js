@@ -21,12 +21,12 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.ownername = 'ALDI-SADBOY'
+global.ownername = 'Albys-MAKER'
 // Other
-global.owner = ['6285697175057','6285697175057','6285697175057']
-global.premium = ['6285697175057']
-global.packname = 'ALDI-BOT WAR'
-global.author = 'ꪶ🌷ꫂ ALDI MODER ꪶ🌷ꫂ'
+global.owner = ['6289603601341','6289603601341','6285697175057']
+global.premium = ['6289603601341']
+global.packname = 'Albbys WAR'
+global.author = 'Albys Maker'
 global.wlcm = []
 global.sessionName = './src/session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
